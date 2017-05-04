@@ -1,2 +1,2 @@
-# javascrtipt-hacks
+# javascript-hacks
 some javascript code
